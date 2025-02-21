@@ -1,0 +1,146 @@
+[
+    {
+        "name": "I-70 at Odessa",
+        "url": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_341/playlist.m3u8",
+        "latitude": 38.9615,
+        "longitude": -93.9533
+    },
+    {
+        "name": "I-70 at Oak Grove",
+        "url": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_340/playlist.m3u8",
+        "latitude": 39.0054,
+        "longitude": -94.1301
+    },
+    {
+        "name": "I-70 WB before Adams Dairy Pkwy",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBIPC-35-LQ.stream/playlist.m3u8",
+        "latitude": 39.0170,
+        "longitude": -94.2735
+    },
+    {
+        "name": "I-70 EB past MO-7",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070EBIPC-34-LQ.stream/playlist.m3u8",
+        "latitude": 39.0177,
+        "longitude": -94.2815
+    },
+    {
+        "name": "I-70 EB at I-470",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070EBC-27-LQ.stream/playlist.m3u8",
+        "latitude": 39.0356,
+        "longitude": -94.4079
+    },
+    {
+        "name": "I-470 SB at Woods Chapel",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470SBC-08-LQ.stream/playlist.m3u8",
+        "latitude": 38.9467,
+        "longitude": -94.3731
+    },
+    {
+        "name": "I-470 WB at Blue Pkwy",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470WBC-05-LQ.stream/playlist.m3u8",
+        "latitude": 38.9336,
+        "longitude": -94.4139
+    },
+    {
+        "name": "I-470 WB at Blue Ridge Blvd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470WBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 38.9475,
+        "longitude": -94.4992
+    },
+    {
+        "name": "I-70 WB at Stadium Dr",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBIPC-19-LQ.stream/playlist.m3u8",
+        "latitude": 39.0497,
+        "longitude": -94.4834
+    },
+    {
+        "name": "I-70 WB at Benton Blvd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBC-10-LQ.stream/playlist.m3u8",
+        "latitude": 39.0497,
+        "longitude": -94.5397
+    },
+    {
+        "name": "I-35 NB at Paseo Blvd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08-LQ.stream/playlist.m3u8",
+        "latitude": 39.0778,
+        "longitude": -94.5681
+    },
+    {
+        "name": "I-35 NB at Front St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
+        "latitude": 39.1308,
+        "longitude": -94.5519
+    },
+    {
+        "name": "I-70 WB at Main St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.0497,
+        "longitude": -94.5831
+    },
+    {
+        "name": "I-670 WB past Summit St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670WBIPC-01B-LQ.stream/playlist.m3u8",
+        "latitude": 39.0997,
+        "longitude": -94.5986
+    },
+    {
+        "name": "I-435 NB before MO-210",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435NBIPC-19-LQ.stream/playlist.m3u8",
+        "latitude": 39.1397,
+        "longitude": -94.4907
+    },
+    {
+        "name": "I-35 SB past I-435",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBC-18-LQ.stream/playlist.m3u8",
+        "latitude": 39.1844,
+        "longitude": -94.5519
+    },
+    {
+        "name": "I-435 SB at MO-152",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435SBC-26-LQ.stream/playlist.m3u8",
+        "latitude": 39.1997,
+        "longitude": -94.5372
+    },
+    {
+        "name": "I-35 SB at MO-291",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBIPC-54-LQ.stream/playlist.m3u8",
+        "latitude": 39.2461,
+        "longitude": -94.4189
+    },
+    {
+        "name": "I-169 NB past NW 68TH ST",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M169NBC-25-LQ.stream/playlist.m3u8",
+        "latitude": 39.2239,
+        "longitude": -94.6067
+    },
+    {
+        "name": "I-29 NB at Barry Road",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-15-LQ.stream/playlist.m3u8",
+        "latitude": 39.2461,
+        "longitude": -94.6725
+    },
+    {
+        "name": "I-29 NB at 64TH ST",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBC-07-LQ.stream/playlist.m3u8",
+        "latitude": 39.1922,
+        "longitude": -94.6725
+    },
+    {
+        "name": "I-35 NB at US-69",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-56-LQ.stream/playlist.m3u8",
+        "latitude": 39.2072,
+        "longitude": -94.5519
+    },
+    {
+        "name": "I-35 SB at MO-92",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBC-62-LQ.stream/playlist.m3u8",
+        "latitude": 39.3644,
+        "longitude": -94.4683
+    },
+    {
+        "name": "I-435 EB at US-169",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435EBC-61-LQ.stream/playlist.m3u8",
+        "latitude": 39.1694,
+        "longitude": -94.6067
+    }
+]
