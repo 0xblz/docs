@@ -1,5 +1,11 @@
 [
     {
+        "name": "I-35 NB at Front St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
+        "latitude": 39.1308,
+        "longitude": -94.5519
+    },
+    {
         "name": "I-70 at Odessa",
         "url": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_341/playlist.m3u8",
         "latitude": 38.9615,
@@ -64,12 +70,6 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08-LQ.stream/playlist.m3u8",
         "latitude": 39.0778,
         "longitude": -94.5681
-    },
-    {
-        "name": "I-35 NB at Front St",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
-        "latitude": 39.1308,
-        "longitude": -94.5519
     },
     {
         "name": "I-70 WB at Main St",
