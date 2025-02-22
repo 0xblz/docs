@@ -8,8 +8,8 @@
     {
         "name": "I-70 at Odessa",
         "url": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_341/playlist.m3u8",
-        "latitude": 38.9615,
-        "longitude": -93.9533
+        "latitude": 39.0073,
+        "longitude": -93.9597
     },
     {
         "name": "I-70 at Oak Grove",
@@ -20,8 +20,8 @@
     {
         "name": "I-70 WB before Adams Dairy Pkwy",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBIPC-35-LQ.stream/playlist.m3u8",
-        "latitude": 39.0170,
-        "longitude": -94.2735
+        "latitude": 39.0278,
+        "longitude": -94.2450
     },
     {
         "name": "I-70 EB past MO-7",
@@ -98,8 +98,8 @@
     {
         "name": "I-435 SB at MO-152",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435SBC-26-LQ.stream/playlist.m3u8",
-        "latitude": 39.1997,
-        "longitude": -94.5372
+        "latitude": 39.2606,
+        "longitude": -94.5889
     },
     {
         "name": "I-35 SB at MO-291",
@@ -122,25 +122,25 @@
     {
         "name": "I-29 NB at 64TH ST",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBC-07-LQ.stream/playlist.m3u8",
-        "latitude": 39.1922,
-        "longitude": -94.6725
+        "latitude": 39.2110,
+        "longitude": -94.6407
     },
     {
         "name": "I-35 NB at US-69",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-56-LQ.stream/playlist.m3u8",
-        "latitude": 39.2072,
-        "longitude": -94.5519
+        "latitude": 39.2174,
+        "longitude": -94.4763
     },
     {
         "name": "I-35 SB at MO-92",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBC-62-LQ.stream/playlist.m3u8",
-        "latitude": 39.3644,
-        "longitude": -94.4683
+        "latitude": 39.3665,
+        "longitude": -94.3747
     },
     {
         "name": "I-435 EB at US-169",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435EBC-61-LQ.stream/playlist.m3u8",
-        "latitude": 39.1694,
-        "longitude": -94.6067
+        "latitude": 39.3097,
+        "longitude": -94.5876
     }
 ]
