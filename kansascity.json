@@ -2,8 +2,8 @@
     {
         "name": "I-35 NB at Front St",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
-        "latitude": 39.1308,
-        "longitude": -94.5519
+        "latitude": 39.1177,
+        "longitude": -94.5642
     },
     {
         "name": "I-70 at Odessa",
@@ -32,14 +32,14 @@
     {
         "name": "I-70 EB at I-470",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070EBC-27-LQ.stream/playlist.m3u8",
-        "latitude": 39.0356,
-        "longitude": -94.4079
+        "latitude": 39.0431,
+        "longitude": -94.3642
     },
     {
         "name": "I-470 SB at Woods Chapel",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470SBC-08-LQ.stream/playlist.m3u8",
-        "latitude": 38.9467,
-        "longitude": -94.3731
+        "latitude": 38.9851,
+        "longitude": -94.3578
     },
     {
         "name": "I-470 WB at Blue Pkwy",
@@ -62,14 +62,14 @@
     {
         "name": "I-70 WB at Benton Blvd",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBC-10-LQ.stream/playlist.m3u8",
-        "latitude": 39.0497,
-        "longitude": -94.5397
+        "latitude": 39.0964,
+        "longitude": -94.5490
     },
     {
         "name": "I-35 NB at Paseo Blvd",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08-LQ.stream/playlist.m3u8",
-        "latitude": 39.0778,
-        "longitude": -94.5681
+        "latitude": 39.1076,
+        "longitude": -94.5644
     },
     {
         "name": "I-70 WB at Main St",
@@ -98,8 +98,8 @@
     {
         "name": "I-435 SB at MO-152",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435SBC-26-LQ.stream/playlist.m3u8",
-        "latitude": 39.2606,
-        "longitude": -94.5889
+        "latitude": 39.2442,
+        "longitude": -94.5098
     },
     {
         "name": "I-35 SB at MO-291",
