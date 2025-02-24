@@ -66,6 +66,12 @@
         "longitude": -94.5490
     },
     {
+        "name": "I-670 EB at Locust",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670EBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.0972,
+        "longitude": -94.5764
+    },
+    {
         "name": "I-35 NB at Paseo Blvd",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08-LQ.stream/playlist.m3u8",
         "latitude": 39.1076,
@@ -76,6 +82,18 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBC-02-LQ.stream/playlist.m3u8",
         "latitude": 39.1071,
         "longitude": -94.5826
+    },
+    {
+        "name": "I-35 NB at Armour",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-11-LQ.stream/playlist.m3u8",
+        "latitude": 39.1436,
+        "longitude": -94.5588
+    },
+    {
+        "name": "I-29 SB at North Oak Trafficway",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029SBC-03-LQ.stream/playlist.m3u8",
+        "latitude": 39.1785,
+        "longitude": -94.5802
     },
     {
         "name": "I-670 WB past Summit St",
