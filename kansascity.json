@@ -84,18 +84,6 @@
         "longitude": -94.5826
     },
     {
-        "name": "I-35 NB at Armour",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-11-LQ.stream/playlist.m3u8",
-        "latitude": 39.1436,
-        "longitude": -94.5588
-    },
-    {
-        "name": "I-29 SB at North Oak Trafficway",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029SBC-03-LQ.stream/playlist.m3u8",
-        "latitude": 39.1785,
-        "longitude": -94.5802
-    },
-    {
         "name": "I-670 WB past Summit St",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670WBIPC-01B-LQ.stream/playlist.m3u8",
         "latitude": 39.0997,
@@ -106,6 +94,18 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435NBIPC-19-LQ.stream/playlist.m3u8",
         "latitude": 39.1397,
         "longitude": -94.4907
+    },
+    {
+        "name": "I-35 NB at Armour",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-11-LQ.stream/playlist.m3u8",
+        "latitude": 39.1436,
+        "longitude": -94.5588
+    },
+    {
+        "name": "I-29 SB at North Oak Trafficway",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029SBC-03-LQ.stream/playlist.m3u8",
+        "latitude": 39.1785,
+        "longitude": -94.5802
     },
     {
         "name": "I-35 SB past I-435",
@@ -120,22 +120,10 @@
         "longitude": -94.5098
     },
     {
-        "name": "I-35 SB at MO-291",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBIPC-54-LQ.stream/playlist.m3u8",
-        "latitude": 39.2461,
-        "longitude": -94.4189
-    },
-    {
         "name": "I-169 NB past NW 68TH ST",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M169NBC-25-LQ.stream/playlist.m3u8",
         "latitude": 39.2239,
         "longitude": -94.6067
-    },
-    {
-        "name": "I-29 NB at Barry Road",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-15-LQ.stream/playlist.m3u8",
-        "latitude": 39.2461,
-        "longitude": -94.6725
     },
     {
         "name": "I-29 NB at 64TH ST",
@@ -144,10 +132,22 @@
         "longitude": -94.6407
     },
     {
+        "name": "I-29 NB at Barry Road",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-15-LQ.stream/playlist.m3u8",
+        "latitude": 39.2461,
+        "longitude": -94.6725
+    },
+    {
         "name": "I-35 NB at US-69",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-56-LQ.stream/playlist.m3u8",
         "latitude": 39.2174,
         "longitude": -94.4763
+    },
+    {
+        "name": "I-35 SB at MO-291",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBIPC-54-LQ.stream/playlist.m3u8",
+        "latitude": 39.2461,
+        "longitude": -94.4189
     },
     {
         "name": "I-35 SB at MO-92",
