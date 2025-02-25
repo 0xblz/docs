@@ -174,6 +174,18 @@
         "longitude": -94.4763
     },
     {
+        "name": "I-35 SB at Pleasant Valley Rd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBIPC-21-LQ.stream/playlist.m3u8",
+        "latitude": 39.2159,
+        "longitude": -94.4776
+    },
+    {
+        "name": "I-435 SB at Shoal Creek",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435SBIPC-25-LQ.stream/playlist.m3u8",
+        "latitude": 39.2245,
+        "longitude": -94.4975
+    },
+    {
         "name": "I-35 SB at MO-291",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBIPC-54-LQ.stream/playlist.m3u8",
         "latitude": 39.2461,
@@ -184,6 +196,12 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBC-62-LQ.stream/playlist.m3u8",
         "latitude": 39.3665,
         "longitude": -94.3747
+    },
+    {
+        "name": "I-35 SB at MO-33",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035SBC-63-LQ.stream/playlist.m3u8",
+        "latitude": 39.3794,
+        "longitude": -94.3652
     },
     {
         "name": "I-435 EB at US-169",
