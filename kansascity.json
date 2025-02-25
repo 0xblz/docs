@@ -36,6 +36,18 @@
         "longitude": -94.3642
     },
     {
+        "name": "I-435 SB at Raytown Rd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435SBC-12-LQ.stream/playlist.m3u8",
+        "latitude": 39.0496,
+        "longitude": -94.4979
+    },
+    {
+        "name": "US-50 at 291 NB",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M050EBIPC-04-LQ.stream/playlist.m3u8",
+        "latitude": 38.9020,
+        "longitude": -94.3614
+    },
+    {
         "name": "I-470 SB at Woods Chapel",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470SBC-08-LQ.stream/playlist.m3u8",
         "latitude": 38.9851,
@@ -52,6 +64,12 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470WBC-02-LQ.stream/playlist.m3u8",
         "latitude": 38.9475,
         "longitude": -94.4992
+    },
+    {
+        "name": "I-35 NB at Southwest Trfwy",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.0772,
+        "longitude": -94.5947
     },
     {
         "name": "I-70 WB at Stadium Dr",
@@ -88,6 +106,18 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670WBIPC-01B-LQ.stream/playlist.m3u8",
         "latitude": 39.0997,
         "longitude": -94.5986
+    },
+    {
+        "name": "I-670 WB at Baltimore",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670WBC-01-LQ.stream/playlist.m3u8",
+        "latitude": 39.0957,
+        "longitude": -94.5849
+    },
+    {
+        "name": "US-169 SB at Broadway Bridge North",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M169SBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.1135,
+        "longitude": -94.5914
     },
     {
         "name": "I-435 NB before MO-210",
@@ -160,5 +190,11 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435EBC-61-LQ.stream/playlist.m3u8",
         "latitude": 39.3097,
         "longitude": -94.5876
+    },
+    {
+        "name": "I-29 NB at I-435",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-20-LQ.stream/playlist.m3u8",
+        "latitude": 39.3176,
+        "longitude": -94.6922
     }
 ]
