@@ -14,6 +14,13 @@
         "state": "Missouri"
     },
     {
+        "name": "I-435 EB past I-35",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K435EBC-03-LQ.stream/playlist.m3u8",
+        "latitude": 38.9386,
+        "longitude": -94.7407,
+        "state": "Kansas"
+    },
+    {
         "name": "I-470 WB at Blue Ridge Blvd",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470WBC-02-LQ.stream/playlist.m3u8",
         "latitude": 38.9475,
@@ -63,6 +70,13 @@
         "state": "Missouri"
     },
     {
+        "name": "I-35 NB at I-635",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K035NBC-12-LQ.stream/playlist.m3u8",
+        "latitude": 39.0431,
+        "longitude": -94.6728,
+        "state": "Kansas"
+    },
+    {
         "name": "I-435 SB at Raytown Rd",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M435SBC-12-LQ.stream/playlist.m3u8",
         "latitude": 39.0496,
@@ -75,6 +89,13 @@
         "latitude": 39.0497,
         "longitude": -94.4834,
         "state": "Missouri"
+    },
+    {
+        "name": "I-35 SB at Southwest Blvd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K035SBC-15-LQ.stream/playlist.m3u8",
+        "latitude": 39.0619,
+        "longitude": -94.6237,
+        "state": "Kansas"
     },
     {
         "name": "I-35 NB at Southwest Trfwy",
@@ -91,11 +112,11 @@
         "state": "Missouri"
     },
     {
-        "name": "I-670 EB at Locust",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670EBC-02-LQ.stream/playlist.m3u8",
-        "latitude": 39.0972,
-        "longitude": -94.5764,
-        "state": "Missouri"
+        "name": "I-70 WB at K-7 Hwy",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K070WBIPC-91-LQ.stream/playlist.m3u8",
+        "latitude": 39.0961,
+        "longitude": -94.8811,
+        "state": "Kansas"
     },
     {
         "name": "I-670 WB at Baltimore",
@@ -105,17 +126,10 @@
         "state": "Missouri"
     },
     {
-        "name": "I-35 NB at Paseo Blvd",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08-LQ.stream/playlist.m3u8",
-        "latitude": 39.1076,
-        "longitude": -94.5644,
-        "state": "Missouri"
-    },
-    {
-        "name": "I-70 WB at Main St",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBC-02-LQ.stream/playlist.m3u8",
-        "latitude": 39.1071,
-        "longitude": -94.5826,
+        "name": "I-670 EB at Locust",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670EBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.0972,
+        "longitude": -94.5764,
         "state": "Missouri"
     },
     {
@@ -126,10 +140,31 @@
         "state": "Missouri"
     },
     {
-        "name": "I-35 NB at Front St",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
-        "latitude": 39.1177,
-        "longitude": -94.5642,
+        "name": "I-70 WB at I-635",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K070WBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.1043,
+        "longitude": -94.6739,
+        "state": "Kansas"
+    },
+    {
+        "name": "I-435 SB at I-70",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K435SBIPC-61-LQ.stream/playlist.m3u8",
+        "latitude": 39.1052,
+        "longitude": -94.8078,
+        "state": "Kansas"
+    },
+    {
+        "name": "I-70 WB at Main St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070WBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.1071,
+        "longitude": -94.5826,
+        "state": "Missouri"
+    },
+    {
+        "name": "I-35 NB at Paseo Blvd",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08-LQ.stream/playlist.m3u8",
+        "latitude": 39.1076,
+        "longitude": -94.5644,
         "state": "Missouri"
     },
     {
@@ -137,6 +172,13 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M169SBC-02-LQ.stream/playlist.m3u8",
         "latitude": 39.1135,
         "longitude": -94.5914,
+        "state": "Missouri"
+    },
+    {
+        "name": "I-35 NB at Front St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
+        "latitude": 39.1177,
+        "longitude": -94.5642,
         "state": "Missouri"
     },
     {
@@ -168,10 +210,10 @@
         "state": "Missouri"
     },
     {
-        "name": "I-35 NB at US-69",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-56-LQ.stream/playlist.m3u8",
-        "latitude": 39.2174,
-        "longitude": -94.4763,
+        "name": "I-29 NB at 64TH ST",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBC-07-LQ.stream/playlist.m3u8",
+        "latitude": 39.2110,
+        "longitude": -94.6407,
         "state": "Missouri"
     },
     {
@@ -182,10 +224,10 @@
         "state": "Missouri"
     },
     {
-        "name": "I-29 NB at 64TH ST",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBC-07-LQ.stream/playlist.m3u8",
-        "latitude": 39.2110,
-        "longitude": -94.6407,
+        "name": "I-35 NB at US-69",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-56-LQ.stream/playlist.m3u8",
+        "latitude": 39.2174,
+        "longitude": -94.4763,
         "state": "Missouri"
     },
     {
