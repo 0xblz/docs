@@ -28,6 +28,13 @@
         "state": "Missouri"
     },
     {
+        "name": "I-35 SB at US-69",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K035SBC-05-LQ.stream/playlist.m3u8",
+        "latitude": 38.9726,
+        "longitude": -94.7157,
+        "state": "Kansas"
+    },
+    {
         "name": "I-470 SB at Woods Chapel",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M470SBC-08-LQ.stream/playlist.m3u8",
         "latitude": 38.9851,
