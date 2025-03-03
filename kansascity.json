@@ -926,8 +926,8 @@
     {
         "name": "I-70 EB past MO-7",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M070EBIPC-34-LQ.stream/playlist.m3u8",
-        "latitude": 39.0177,
-        "longitude": -94.2815,
+        "latitude": 39.0285,
+        "longitude": -94.2620,
         "state": "Missouri"
     },
     {
@@ -2060,9 +2060,9 @@
     {
         "name": "I-29 NB at Barry Road",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-15-LQ.stream/playlist.m3u8",
-        "latitude": 39.2461,
-        "longitude": -94.6725,
-        "state": "Kansas"
+        "latitude": 39.246356,
+        "longitude": -94.658088,
+        "state": "Missouri"
     },
     {
         "name": "I-35 SB at MO-291",
