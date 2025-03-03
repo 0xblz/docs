@@ -245,13 +245,6 @@
         "state": "Missouri"
     },
     {
-        "name": "US-50 at 291 NB",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M050EBIPC-04-LQ.stream/playlist.m3u8",
-        "latitude": 38.902,
-        "longitude": -94.3614,
-        "state": "Missouri"
-    },
-    {
         "name": "US-50 EB At MO-291 SB",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M050EBIPC-03-LQ.stream/playlist.m3u8",
         "latitude": 38.902432,
@@ -1456,13 +1449,6 @@
         "state": "Missouri"
     },
     {
-        "name": "I-70 WB At K-7",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K070WBIPC-91-LQ.stream/playlist.m3u8",
-        "latitude": 39.0972,
-        "longitude": -94.882128,
-        "state": "Kansas"
-    },
-    {
         "name": "I-670 EB At Genesse St",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670EBIPC-01A-LQ.stream/playlist.m3u8",
         "latitude": 39.09838,
@@ -1530,13 +1516,6 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/K070WBC-02-LQ.stream/playlist.m3u8",
         "latitude": 39.1043,
         "longitude": -94.6739,
-        "state": "Kansas"
-    },
-    {
-        "name": "I-70 WB Before I-635",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/K070WBC-02-LQ.stream/playlist.m3u8",
-        "latitude": 39.1043,
-        "longitude": -94.67612,
         "state": "Kansas"
     },
     {
@@ -1820,13 +1799,6 @@
         "state": "Kansas"
     },
     {
-        "name": "I-35 NB At Armour/MO-210",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-11-LQ.stream/playlist.m3u8",
-        "latitude": 39.1467,
-        "longitude": -94.559696,
-        "state": "Missouri"
-    },
-    {
         "name": "I-635 SB Past K-5",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/K635SBC-13-LQ.stream/playlist.m3u8",
         "latitude": 39.146908,
@@ -1922,13 +1894,6 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029SBC-03-LQ.stream/playlist.m3u8",
         "latitude": 39.1785,
         "longitude": -94.5802,
-        "state": "Missouri"
-    },
-    {
-        "name": "I-29 SB At North Oak Trfwy",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029SBC-03-LQ.stream/playlist.m3u8",
-        "latitude": 39.179268,
-        "longitude": -94.581352,
         "state": "Missouri"
     },
     {
@@ -2072,13 +2037,6 @@
         "state": "Missouri"
     },
     {
-        "name": "I-169 NB past NW 68TH ST",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M169NBC-25-LQ.stream/playlist.m3u8",
-        "latitude": 39.2239,
-        "longitude": -94.6067,
-        "state": "Kansas"
-    },
-    {
         "name": "I-29 NB Past 72nd St",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-14-LQ.stream/playlist.m3u8",
         "latitude": 39.231964,
@@ -2112,13 +2070,6 @@
         "latitude": 39.2461,
         "longitude": -94.4189,
         "state": "Missouri"
-    },
-    {
-        "name": "I-29 NB At Barry Rd",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-15-LQ.stream/playlist.m3u8",
-        "latitude": 39.246356,
-        "longitude": -94.658088,
-        "state": "Kansas"
     },
     {
         "name": "I-29 NB At MO-152",
@@ -2216,13 +2167,6 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-20-LQ.stream/playlist.m3u8",
         "latitude": 39.3176,
         "longitude": -94.6922,
-        "state": "Kansas"
-    },
-    {
-        "name": "I-29 NB At I-435/I-29 Split",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M029NBIPC-20-LQ.stream/playlist.m3u8",
-        "latitude": 39.319708,
-        "longitude": -94.694816,
         "state": "Kansas"
     },
     {
