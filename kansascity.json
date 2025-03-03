@@ -1,5 +1,12 @@
 [
     {
+        "name": "I-35 NB at Front St",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
+        "latitude": 39.1177,
+        "longitude": -94.5642,
+        "state": "Missouri"
+    },
+    {
         "name": "I-49 NB At MO-7",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M049NBIPC-50-LQ.stream/playlist.m3u8",
         "latitude": 38.6144,
@@ -1685,13 +1692,6 @@
         "latitude": 39.116512,
         "longitude": -94.812256,
         "state": "Kansas"
-    },
-    {
-        "name": "I-35 NB at Front St",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
-        "latitude": 39.1177,
-        "longitude": -94.5642,
-        "state": "Missouri"
     },
     {
         "name": "I-635 SB At State Ave",
