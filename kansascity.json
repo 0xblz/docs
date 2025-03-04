@@ -1,5 +1,12 @@
 [
     {
+        "name": "I-670 EB At Locust",
+        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670EBC-02-LQ.stream/playlist.m3u8",
+        "latitude": 39.0958,
+        "longitude": -94.577904,
+        "state": "Missouri"
+    },
+    {
         "name": "I-35 NB at Front St",
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M035NBC-08A-LQ.stream/playlist.m3u8",
         "latitude": 39.1177,
@@ -1383,13 +1390,6 @@
         "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670WBC-01-LQ.stream/playlist.m3u8",
         "latitude": 39.0957,
         "longitude": -94.5849,
-        "state": "Missouri"
-    },
-    {
-        "name": "I-670 EB At Locust",
-        "url": "https://5fca316e7c40f.streamlock.net/live-secure/M670EBC-02-LQ.stream/playlist.m3u8",
-        "latitude": 39.0958,
-        "longitude": -94.577904,
         "state": "Missouri"
     },
     {
